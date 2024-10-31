@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "date_started": "date",
+    "date_finished": "date",
+    "project_name": "text",
+    "status": "checkbox",
+    "list": "multitext",
+    "mood": "text"
+  }
+}

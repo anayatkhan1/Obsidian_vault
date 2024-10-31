@@ -1,0 +1,21 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "sidebar-custom",
+    "sidebar",
+    "Rubik-font-text",
+    "Obsidian Colored Sidebar",
+    "Noto-font-heading",
+    "OverPass-font-interface",
+    "Daily Note Themes",
+    "Extended Colorschemes",
+    "CyanVoxel General Tweaks"
+  ],
+  "baseFontSizeAction": false,
+  "theme": "obsidian",
+  "accentColor": "",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 16
+}

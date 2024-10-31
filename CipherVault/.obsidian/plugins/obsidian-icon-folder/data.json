@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiCalendarHeart",
+      "LiGitPullRequestDraft",
+      "LiArchive",
+      "LiCalendar",
+      "LiPenLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": true
+  },
+  "00 - HOME": "LiHome",
+  "01 - PROJECTS": "LiSquareCode",
+  "02 - AREAS": "LiBookText",
+  "03 - RESOURCES": "LiNotebookTabs",
+  "07 - ARCHIVES": "LiArchive",
+  "99 - META": "LiGitPullRequestDraft",
+  "06 - DAILY TO YEAR": "LiCalendar"
+}
