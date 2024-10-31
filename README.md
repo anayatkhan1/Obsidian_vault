@@ -1,6 +1,7 @@
 # Obsidian Vault Template for Developers
 
 Welcome to my Obsidian Vault Template! This template is specifically designed to enhance the productivity and organization of developers. It combines effective note-taking methodologies with a structured approach to managing your projects and ideas.
+<img width="1710" alt="Screenshot 2024-10-31 at 1 40 07 PM" src="https://github.com/user-attachments/assets/e9e66fd1-2120-4551-af37-31bd9f0d0754">
 
 ## Features
 
@@ -19,20 +20,6 @@ Welcome to my Obsidian Vault Template! This template is specifically designed to
 - **Customized Themes**: 
   - A visually appealing theme tailored for developers to improve readability and focus.
 
-## Folder Structure
-
-The folder structure is designed to facilitate easy navigation and efficient note-taking. Here’s a brief overview:
-
-
-### Explanation of the Structure
-
-- **Daily Notes**: For daily reflections and task tracking.
-- **Monthly & Yearly Notes**: For periodic reviews and planning.
-- **Projects**: Dedicated folders for ongoing projects.
-- **Areas**: Categories for different aspects of your life or work.
-- **Resources**: A collection of useful articles, tutorials, and references.
-- **Archives**: Store completed projects or notes that are no longer active.
-
 ## Installation
 
 To use this template:
@@ -43,19 +30,13 @@ To use this template:
 4. Install the recommended plugins via the Obsidian community plugins section.
 5. Apply the customized theme in the appearance settings.
 
-## Getting Started
-
-1. Explore the templates provided in the "Templates" folder.
-2. Customize them according to your needs.
-3. Start taking notes using the daily, monthly, and yearly templates.
-
 ## Contributions
 
 Feel free to contribute by submitting issues or pull requests if you have suggestions or improvements!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/anayatkhan1/Obsidian_vault/blob/main/LICENSE) file for details.
 
 ---
 
